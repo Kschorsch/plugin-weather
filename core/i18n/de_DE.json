@@ -9,9 +9,11 @@
 "Obtenir le code WOEID": "WOEID-Code holen ",
 "Météo": "Wetter",
 "Valeur": "Wert",
+"Mes météos": "Mein Wetter",
 "Ajouter une météo": "Wetter hinzufügen",
 "Historiser les données": "Daten in Chronik speichern",
 "Affichage complet en mobile": "Mobil Vollansicht",
+"Vous n'avez pas encore de météo, cliquez sur Ajouter une météo pour commencer": "Sie haben noch kein Wetter, klicken Sie auf Wetter hinzufügen",
 "Fréquence de rafraichissement des données (par défaut : *\/30 * * * *)": "Datenaktualisierungsrate (Standard: * \/ 30 * * * *)"
 },
 "plugins\/weather\/core\/class\/weather.class.php": {
@@ -37,8 +39,8 @@
 "Pression": "Luftdruck",
 "Condition Actuelle": "Aktueller Zustand",
 "Vitesse du vent": "Windgeschwindigkeit",
-"Direction du vent": "Direction du vent",
-"Coucher du soleil": "Windrichtung",
+"Direction du vent": "Windrichtung",
+"Coucher du soleil": "Sonnenuntergang",
 "Lever du soleil": "Sonnenaufgang",
 "Température Min": "Temperatur Min",
 "Température Max": "Temperatur Max",
